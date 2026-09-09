@@ -4,6 +4,7 @@
 .skill-grid span{gap:.7rem}.skill-grid img{width:25px;height:25px;flex:0 0 25px;object-fit:contain}.skill-grid i{display:grid;width:29px;height:29px;flex:0 0 29px;place-items:center;border-radius:7px;background:var(--forest);color:#fff;font-size:.56rem;font-style:normal;font-weight:900;letter-spacing:-.02em}
 .portrait-frame img{width:100%;height:100%;display:block;object-fit:cover;object-position:center top}
 .portrait-frame{border:10px solid #fff;box-shadow:0 18px 45px #03142866}
+.header-cta{border:2px solid #fff;background:#ffffff0d;transition:background .2s,color .2s,transform .2s}.header-cta:hover{background:#fff;color:var(--forest);transform:translateY(-2px)}
 .timeline-list{border-top:1px solid var(--line)}.timeline-list .timeline{border-top:0}.timeline-list .timeline+.timeline{border-top:0}
 
 /* Blue portfolio theme */
