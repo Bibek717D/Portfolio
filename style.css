@@ -3,6 +3,7 @@
 @media(max-width:600px){.site-header,.hero-content,.section,footer{width:calc(100% - 28px)}.hero{min-height:720px;height:100svh}.hero-content{padding-bottom:3.5rem}.portrait{display:none}h1{font-size:3.5rem}.hero-copy{font-size:1.08rem}.hero-actions{flex-direction:column}.button{justify-content:center}.section{padding:5rem 0}.two-columns,.skill-groups,.skill-grid{grid-template-columns:1fr}.skills-band,.awards-band,.contact{padding:4.5rem 14px}.section-heading{align-items:flex-start;flex-direction:column}.project-visual{min-height:220px}.project-meta{flex-direction:column;gap:.3rem}.contact h2{font-size:2.4rem}}
 .skill-grid span{gap:.7rem}.skill-grid img{width:25px;height:25px;flex:0 0 25px;object-fit:contain}.skill-grid i{display:grid;width:29px;height:29px;flex:0 0 29px;place-items:center;border-radius:7px;background:var(--forest);color:#fff;font-size:.56rem;font-style:normal;font-weight:900;letter-spacing:-.02em}
 .portrait-frame img{width:100%;height:100%;display:block;object-fit:cover;object-position:center top}
+.portrait-frame{border:10px solid #fff;box-shadow:0 18px 45px #03142866}
 .timeline-list{border-top:1px solid var(--line)}.timeline-list .timeline{border-top:0}.timeline-list .timeline+.timeline{border-top:0}
 
 /* Blue portfolio theme */
