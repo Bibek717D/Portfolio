@@ -15,4 +15,7 @@
 .project-coral{background:#4f8fc4}
 .education-grid .accent{background:#dfeafb}
 .skill-grid i{background:#123d68}
+.hero{background:radial-gradient(circle at 76% 42%,#4e9cff55,transparent 22rem),linear-gradient(110deg,#06172d 0%,#0a3263 55%,#1265a8 100%)}
+.skills-band,.awards-band{background:#d7e9f8}
+.contact{background:#0d3f70}
 .award-list article+article{border-top:1px solid var(--line)}
