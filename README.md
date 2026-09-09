@@ -4,4 +4,4 @@ A responsive personal portfolio built with semantic HTML and modern CSS.
 
 ## Live site
 
-Visit: https://bibekdhakal.github.io/portfolio/
+Visit: https://bibek717d.github.io/Portfolio/
